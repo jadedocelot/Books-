@@ -1,0 +1,36 @@
+#Reverse Engineering
+
+1. OllyDbg - (Author: Oleh Yuschuk)
+  - ollydbg is 32 bit assembler level analyzing debugger for Microsoft Windows  applications.
+  - Emphsis on binary code analysis for applications that arent open source and source is unavailable
+  - cough, cough, cracking commercial software 
+    - It traces the following:
+        * Traces  regsters 
+        * Recognizes procedures
+        * API calls
+        * Switches 
+        * Tables  
+        * constants and strings 
+        * As well as locates routines from objects files and libraries?
+
+PRO: User friendly interface 
+
+  - version 1.10 is the final version 
+  - The software is free of cost, but the shareware requires users to register with the author (WOW, TO AVOID SKETCHY ACTS BEING HANDLED WITH HIS SOFTWARE)
+  
+CON: OllyDbg cant disassemble binaries compiled for 64-bit processers. Though don't be alarmed, a 64-bit version of the debugger is supposedly in the works.    
+
+BACKTRACK:
+  - OllyDbg is often used for reverse engineering programs
+      - used by cracker to crack software made by other developers 
+          Crackers: are individuals who "love" to crack DRM and software licensing schemes
+                        * SolidSQUAD(SSQ) being one group of "crackers"
+
+
+
+
+
+
+
+
+  
